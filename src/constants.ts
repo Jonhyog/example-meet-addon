@@ -13,5 +13,5 @@
 // limitations under the License.
 
 // TODO: Make sure that you modify these constants, if you fork this!
-export const CLOUD_PROJECT_NUMBER: string = "989911054302";
-export const MAIN_STAGE_URL: string = "https://googleworkspace.github.io/meet/hello-world-next-js/mainstage"
+export const CLOUD_PROJECT_NUMBER: string = "927429484605";
+export const MAIN_STAGE_URL: string = "https://jonhyog.github.io/example-meet-addon/mainstage"
